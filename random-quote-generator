@@ -1,0 +1,12 @@
+import random
+
+quotes = [
+    "Believe in yourself! 🌟",
+    "Every day is a new beginning.",
+    "Small steps lead to big results.",
+    "Dream it. Do it.",
+    "Stay positive, work hard, make it happen."
+]
+
+print("💡 Quote of the Day:")
+print(random.choice(quotes))
